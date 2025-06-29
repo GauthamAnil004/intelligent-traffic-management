@@ -1,0 +1,5 @@
+Python IDE and the following libraries:
+random
+tensorflow
+numpy
+pygame
